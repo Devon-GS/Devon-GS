@@ -22,6 +22,11 @@ I mainly code in Python but know a bit of HTML, CSS and JAVA.
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
+### 🌱 I’m currently learning
+
+- Powershell
+- Linux Command Line
+
 <!--
 **Devon-GS/Devon-GS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
